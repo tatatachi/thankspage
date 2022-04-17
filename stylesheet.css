@@ -1,0 +1,21 @@
+.message{
+    text-align: center;
+}
+
+
+.url{
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+.line{
+    padding: 20px;
+    background-color: #07b53b;
+    color: white;
+    font-size: 45;
+    text-align: center;
+}
+
+.jump{
+    text-align: center;
+}
